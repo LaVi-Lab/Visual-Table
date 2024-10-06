@@ -23,7 +23,7 @@ Visual representation learning has been a cornerstone in computer vision, involv
 
 
 ## Updates
-- [10/7] 🔥 Visual Table is now released! You can download the visual table annotations from [Huggingface](https://huggingface.co/datasets/HenryHZY/Data_Visual_Table) and pre-trained visual table generator from [Huggingface](https://huggingface.co/HenryHZY/VTGenerator-13B). More details can be found below.
+- [10/6] 🔥 Visual Table is now released! You can download the visual table annotations from [Huggingface](https://huggingface.co/datasets/HenryHZY/Data_Visual_Table) and pre-trained visual table generator from [Huggingface](https://huggingface.co/HenryHZY/VTGenerator-13B). More details can be found below.
 
 
 ## Install
